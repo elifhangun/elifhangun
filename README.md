@@ -1,8 +1,8 @@
-🧝‍♀️🛸📸🗺️🐿️🌲⋆｡𖦹°‧  Hello there!
+🧝‍♀️ Hello there!
 
 I'm Elif Hangün, a third-year student majoring in Communication and Design, with an interest of Technical Art. My areas of interest include shader, material, VFX, rigging, animation, and motion capture technologies. I am committed to ongoing learning and development to become a proficient Technical Artist.
 
-📫 How to reach me: elifhangun34@gmail.com
+📫 How to reach me: elifhangun34@gmail.com ⋆｡𖦹°‧  
 
 <!---
 elifhangun/elifhangun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
