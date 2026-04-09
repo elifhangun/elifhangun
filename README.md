@@ -8,4 +8,4 @@ I'm Elif Hangün, a third-year student majoring in Communication and Design, wit
 elifhangun/elifhangun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img width="600" height="436" alt="Screenshot_4" src="https://github.com/user-attachments/assets/c0314857-266e-48a4-8018-473ff27f8ddf" />
+<img width="300" height="218" alt="Screenshot_4" src="https://github.com/user-attachments/assets/c0314857-266e-48a4-8018-473ff27f8ddf" />
