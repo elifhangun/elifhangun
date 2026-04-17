@@ -1,3 +1,4 @@
+<h3 align="center">Communication and Design Student, Technical Artist</h3>
 🧝‍♀️ Hello there!
 
 I'm Elif Hangün, a third-year student majoring in Communication and Design, with an interest of Technical Art. My areas of interest include shader, material, VFX, rigging, animation, and motion capture technologies. I am committed to ongoing learning and development to become a proficient Technical Artist.
@@ -7,6 +8,11 @@ I'm Elif Hangün, a third-year student majoring in Communication and Design, wit
 <p align="left">
 <a href="https://linkedin.com/in/elif-hangun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-hangun" height="30" width="40" /></a>
 </p>
+
+
+
+
+
 
 <!---
 elifhangun/elifhangun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
